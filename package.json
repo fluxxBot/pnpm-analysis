@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "publishConfig": {
-    "registry": <repository>
+    "registry": "<repository>"
   },
   "dependencies": {
     "express": "^4.21.2",
